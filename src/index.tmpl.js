@@ -127,15 +127,16 @@ const style = html`
         font-size: 4vw;
       }
     }
-    @media (min-width: 120ch) {
+    @media (min-width: 800px) {
       :root {
         font-size: 18px;
       }
       body {
         padding: 4em;
+        justify-content: center;
       }
-      main {
-        width: 80ch;
+      body > * {
+        width: 600px;
         line-height: 2em;
       }
     }
