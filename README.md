@@ -18,12 +18,13 @@ However, the site currently needs to be updated manually.
 
 ## To-do
 
-1. [ ] Add a daily GH-Action to rebuild the site for now
-2. [ ] Make the source feed locally available
+- [ ] [Enable GH-Pages on the repo](https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-first-deployment-with-github_token)
+- [ ] Add link to GH-Pages to the repo descriptions :]
+- [ ] Add a daily GH-Action to rebuild the site for now
+- [ ] Make the source feed locally available
 
-   - So that it's available at https://onnyyonn.github.io/feed/feed.atom to subscribe
+  - So that it's available at https://onnyyonn.github.io/feed/feed.atom to subscribe
+  - Also also so that pushing content to it automatically updates the site
 
-   - Also also so that pushing content to it automatically updates the site
-
-3. [ ] Make the SVG favicon responsive so that it's actually visible at small scales
-4. [ ] Make Lume copy static assets with globs
+- [ ] Make the [SVG favicon](src/favicon.svg) responsive so that it's actually visible at small scales
+- [ ] Make Lume copy static assets with globs
