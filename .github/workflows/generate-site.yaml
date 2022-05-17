@@ -5,6 +5,8 @@ on:
       - main
 jobs:
   Generate-Site:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository code
