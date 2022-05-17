@@ -15,4 +15,8 @@ const site = lume(
   { markdown },
 )
 
+//TODO: It seems Lume doens't do glob based static files, which is absolutely deplorable. Work around this later
+site.copy('favicon.png')
+site.copy('favicon.svg')
+
 export default site

@@ -157,7 +157,8 @@ export default async function (_) {
         <meta http-equiv="X-UA-Compatible" content="ie=edge" />
 
         <title>Onnyyonn//feed</title>
-        <link rel="icon" href="./favicon.ico" type="image/x-icon" />
+        <link rel="icon" href="/favicon.png" sizes="any" />
+        <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
         <link
           href="https://cdn.lineicons.com/2.0/LineIcons.css"
           rel="stylesheet"
