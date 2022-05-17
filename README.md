@@ -26,3 +26,4 @@ However, the site currently needs to be updated manually.
    - Also also so that pushing content to it automatically updates the site
 
 3. [ ] Make the SVG favicon responsive so that it's actually visible at small scales
+4. [ ] Make Lume copy static assets with globs
