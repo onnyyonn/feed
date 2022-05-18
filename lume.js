@@ -1,22 +1,21 @@
 import lume from 'https://deno.land/x/lume@v1.8.0/mod.ts'
+import { globSearch } from './src/util.js'
 
-// Markdown plugin configuration
-const markdown = {
-  html: true,
-  linkify: true,
-  typographer: true,
+// Config
+const config = {
+  src: './src',
+  dest: './dist',
 }
-
-const site = lume(
-  {
-    src: './src',
-    dest: './dist',
+const plugins = {
+  markdown: {
+    html: true,
+    linkify: true,
+    typographer: true,
   },
-  { markdown },
-)
+}
+const site = lume(config, plugins)
 
-//TODO: It seems Lume doens't do glob based static files, which is absolutely deplorable. Work around this later
-site.copy('favicon.png')
-site.copy('favicon.svg')
+// Static files
+globSearch(config.src, `./**/favicon.*`).forEach((entry) => site.copy(entry))
 
 export default site
