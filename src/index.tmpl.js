@@ -104,7 +104,7 @@ const style = html`
       opacity: 75%;
     }
     header .header--github a:hover {
-    	opacity: 100%;
+      opacity: 100%;
     }
 
     main {
@@ -123,7 +123,7 @@ const style = html`
     .article-entry .article-entry--lead a:hover {
       opacity: 100%;
     }
-    
+
     .article-entry summary a {
       color: var(--palette--frost);
       line-break: anywhere;
@@ -164,8 +164,8 @@ export default async function (_) {
         <meta http-equiv="X-UA-Compatible" content="ie=edge" />
 
         <title>onnyyonn//feed</title>
-        <link rel="icon" href="/favicon.png" sizes="any" />
-        <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+        <link rel="icon" href="./favicon.png" sizes="any" />
+        <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
         <link
           href="https://cdn.lineicons.com/2.0/LineIcons.css"
           rel="stylesheet"
