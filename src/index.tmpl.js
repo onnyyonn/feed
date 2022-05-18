@@ -60,7 +60,6 @@ const style = html`
 
     p {
       margin-block: 0.5em;
-      line-break: anywhere;
     }
 
     h1,
@@ -117,7 +116,7 @@ const style = html`
       font-style: italic;
       opacity: 75%;
     }
-    .article summary a {
+    .article-entry summary a {
       color: var(--palette--frost);
       line-break: anywhere;
     }
