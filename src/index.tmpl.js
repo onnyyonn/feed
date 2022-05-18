@@ -101,7 +101,10 @@ const style = html`
     header .header--github a {
       color: var(--palette----palette--snow-storm);
       font-size: 1.5em;
-      opacity: 50%;
+      opacity: 75%;
+    }
+    header .header--github a:hover {
+    	opacity: 100%;
     }
 
     main {
@@ -110,12 +113,17 @@ const style = html`
       place-items: stretch;
     }
 
-    .article-entry .article-entry--lead {
+    .article-entry .article-entry--lead a {
+      color: var(--palette--snow-storm);
       font-size: 0.85em;
       font-weight: 500;
       font-style: italic;
       opacity: 75%;
     }
+    .article-entry .article-entry--lead a:hover {
+      opacity: 100%;
+    }
+    
     .article-entry summary a {
       color: var(--palette--frost);
       line-break: anywhere;
@@ -155,7 +163,7 @@ export default async function (_) {
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta http-equiv="X-UA-Compatible" content="ie=edge" />
 
-        <title>Onnyyonn//feed</title>
+        <title>onnyyonn//feed</title>
         <link rel="icon" href="/favicon.png" sizes="any" />
         <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
         <link
