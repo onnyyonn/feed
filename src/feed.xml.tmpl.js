@@ -1,3 +1,4 @@
+
 import { html, md, fetchFeed, slugify } from './util.js'
 
 const article = (entry) => {
@@ -13,7 +14,7 @@ const article = (entry) => {
     	<link href="${link}"/>
     	<updated>${timestamp.toISOString()}</updated>
     	<id>${slug}</id>
-    	<content>${md(entry.content.value)}</content>
+    	<content type="html"><![CDATA[${md(entry.content.value)}]]></content>
     </entry>
   `
 }
@@ -29,6 +30,5 @@ export default async function (_) {
     <title>onnyyonn//feed</title>
     <link href="https://onnyyonn.github.io/feed" rel="self"/>
     ${feed.entries.map(article).join('\n')}
-</feed>
-  `
+</feed>`
 }
