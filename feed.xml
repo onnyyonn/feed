@@ -10,7 +10,7 @@
     	<updated>2022-05-20T13:35:31.000Z</updated>
     	<id>Nota:-A-Document-Language-for-the-Browser</id>
     	<summary><p>A markup language with embedded JavaScript for creating documents for the web.</p></summary>
-    	<content><p>A markup language with embedded JavaScript for creating documents for the web.</p></content>
+    	<content type="html"><p>A markup language with embedded JavaScript for creating documents for the web.</p></content>
     </entry>
   
 
@@ -23,7 +23,7 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=29968702" rel="noopener noreferrer" target="_blank">https://news.ycombinator.com/item?id=29968702</a></p>
 <p>Points: 290</p>
 <p># Comments: 132</p></summary>
-    	<content><p>Article URL: <a href="https://stanislavfort.github.io/blog/sphere-spilling-out/" rel="noopener noreferrer" target="_blank">https://stanislavfort.github.io/blog/sphere-spilling-out/</a></p>
+    	<content type="html"><p>Article URL: <a href="https://stanislavfort.github.io/blog/sphere-spilling-out/" rel="noopener noreferrer" target="_blank">https://stanislavfort.github.io/blog/sphere-spilling-out/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=29968702" rel="noopener noreferrer" target="_blank">https://news.ycombinator.com/item?id=29968702</a></p>
 <p>Points: 290</p>
 <p># Comments: 132</p></content>
@@ -39,7 +39,7 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=29962625" rel="noopener noreferrer" target="_blank">https://news.ycombinator.com/item?id=29962625</a></p>
 <p>Points: 321</p>
 <p># Comments: 127</p></summary>
-    	<content><p>Article URL: <a href="https://johncarlosbaez.wordpress.com/2022/01/16/the-color-of-infinite-temperature/" rel="noopener noreferrer" target="_blank">https://johncarlosbaez.wordpress.com/2022/01/16/the-color-of-infinite-temperature/</a></p>
+    	<content type="html"><p>Article URL: <a href="https://johncarlosbaez.wordpress.com/2022/01/16/the-color-of-infinite-temperature/" rel="noopener noreferrer" target="_blank">https://johncarlosbaez.wordpress.com/2022/01/16/the-color-of-infinite-temperature/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=29962625" rel="noopener noreferrer" target="_blank">https://news.ycombinator.com/item?id=29962625</a></p>
 <p>Points: 321</p>
 <p># Comments: 127</p></content>
@@ -55,7 +55,7 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=29822153" rel="noopener noreferrer" target="_blank">https://news.ycombinator.com/item?id=29822153</a></p>
 <p>Points: 739</p>
 <p># Comments: 587</p></summary>
-    	<content><p>Article URL: <a href="https://www.loc.gov/resource/sn83045774/1922-05-07/ed-1?sp=87" rel="noopener noreferrer" target="_blank">https://www.loc.gov/resource/sn83045774/1922-05-07/ed-1?sp=87</a></p>
+    	<content type="html"><p>Article URL: <a href="https://www.loc.gov/resource/sn83045774/1922-05-07/ed-1?sp=87" rel="noopener noreferrer" target="_blank">https://www.loc.gov/resource/sn83045774/1922-05-07/ed-1?sp=87</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=29822153" rel="noopener noreferrer" target="_blank">https://news.ycombinator.com/item?id=29822153</a></p>
 <p>Points: 739</p>
 <p># Comments: 587</p></content>
@@ -71,7 +71,7 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=29845208" rel="noopener noreferrer" target="_blank">https://news.ycombinator.com/item?id=29845208</a></p>
 <p>Points: 3101</p>
 <p># Comments: 1048</p></summary>
-    	<content><p>Article URL: <a href="https://moxie.org/2022/01/07/web3-first-impressions.html" rel="noopener noreferrer" target="_blank">https://moxie.org/2022/01/07/web3-first-impressions.html</a></p>
+    	<content type="html"><p>Article URL: <a href="https://moxie.org/2022/01/07/web3-first-impressions.html" rel="noopener noreferrer" target="_blank">https://moxie.org/2022/01/07/web3-first-impressions.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=29845208" rel="noopener noreferrer" target="_blank">https://news.ycombinator.com/item?id=29845208</a></p>
 <p>Points: 3101</p>
 <p># Comments: 1048</p></content>
@@ -87,7 +87,7 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=29341055" rel="noopener noreferrer" target="_blank">https://news.ycombinator.com/item?id=29341055</a></p>
 <p>Points: 914</p>
 <p># Comments: 321</p></summary>
-    	<content><p>Article URL: <a href="https://dynomight.net/thanks/" rel="noopener noreferrer" target="_blank">https://dynomight.net/thanks/</a></p>
+    	<content type="html"><p>Article URL: <a href="https://dynomight.net/thanks/" rel="noopener noreferrer" target="_blank">https://dynomight.net/thanks/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=29341055" rel="noopener noreferrer" target="_blank">https://news.ycombinator.com/item?id=29341055</a></p>
 <p>Points: 914</p>
 <p># Comments: 321</p></content>
@@ -100,7 +100,7 @@
     	<updated>2021-07-01T18:40:41.000Z</updated>
     	<id>Building-the-world's-first-'breathing'-PC</id>
     	<summary><p>A unique DIY PC-cooling system</p></summary>
-    	<content><p>A unique DIY PC-cooling system</p></content>
+    	<content type="html"><p>A unique DIY PC-cooling system</p></content>
     </entry>
   
 
@@ -110,7 +110,7 @@
     	<updated>2021-06-20T21:02:06.000Z</updated>
     	<id>Primg</id>
     	<summary><p>Generate prime numbers whose binary representation looks like any image</p></summary>
-    	<content><p>Generate prime numbers whose binary representation looks like any image</p></content>
+    	<content type="html"><p>Generate prime numbers whose binary representation looks like any image</p></content>
     </entry>
   
 
@@ -120,7 +120,7 @@
     	<updated>2021-06-20T18:49:24.000Z</updated>
     	<id>Understanding-quantum-computing-through-drunken-walks</id>
     	<summary><p>Getting started with hacking on quantum computers: <a href="https://quantumcomputing.com/strangeworks/getting-started-bell-state">https://quantumcomputing.com/strangeworks/getting-started-bell-state</a></p></summary>
-    	<content><p>Getting started with hacking on quantum computers: <a href="https://quantumcomputing.com/strangeworks/getting-started-bell-state">https://quantumcomputing.com/strangeworks/getting-started-bell-state</a></p></content>
+    	<content type="html"><p>Getting started with hacking on quantum computers: <a href="https://quantumcomputing.com/strangeworks/getting-started-bell-state">https://quantumcomputing.com/strangeworks/getting-started-bell-state</a></p></content>
     </entry>
   
 
@@ -130,7 +130,7 @@
     	<updated>2021-06-20T18:05:49.000Z</updated>
     	<id>Deepnote</id>
     	<summary><p>One of the best cloud notebooks I have discovered</p></summary>
-    	<content><p>One of the best cloud notebooks I have discovered</p></content>
+    	<content type="html"><p>One of the best cloud notebooks I have discovered</p></content>
     </entry>
   
 
@@ -143,7 +143,7 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=27544894" rel="noopener noreferrer" target="_blank">https://news.ycombinator.com/item?id=27544894</a></p>
 <p>Points: 227</p>
 <p># Comments: 76</p></summary>
-    	<content><p>Article URL: <a href="http://biochemical-pathways.com" rel="noopener noreferrer" target="_blank">http://biochemical-pathways.com</a></p>
+    	<content type="html"><p>Article URL: <a href="http://biochemical-pathways.com" rel="noopener noreferrer" target="_blank">http://biochemical-pathways.com</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=27544894" rel="noopener noreferrer" target="_blank">https://news.ycombinator.com/item?id=27544894</a></p>
 <p>Points: 227</p>
 <p># Comments: 76</p></content>
@@ -156,7 +156,7 @@
     	<updated>2021-06-16T15:17:57.000Z</updated>
     	<id>Zoom-Earth</id>
     	<summary><p>Combines near real-time images from multiple geostationary satellites, updated every 10 minutes</p></summary>
-    	<content><p>Combines near real-time images from multiple geostationary satellites, updated every 10 minutes</p></content>
+    	<content type="html"><p>Combines near real-time images from multiple geostationary satellites, updated every 10 minutes</p></content>
     </entry>
   
 
@@ -166,7 +166,7 @@
     	<updated>2021-06-16T15:01:16.000Z</updated>
     	<id>Building-a-self-updating-profile-README-for-GitHub</id>
     	<summary><p>Self-updating Github profile with Github Action</p></summary>
-    	<content><p>Self-updating Github profile with Github Action</p></content>
+    	<content type="html"><p>Self-updating Github profile with Github Action</p></content>
     </entry>
   
 
@@ -176,7 +176,7 @@
     	<updated>2021-06-10T14:54:01.000Z</updated>
     	<id>Github---miroslavpejic85/mirotalk</id>
     	<summary><p>WebRTC-powered video chat and screen sharing</p></summary>
-    	<content><p>WebRTC-powered video chat and screen sharing</p></content>
+    	<content type="html"><p>WebRTC-powered video chat and screen sharing</p></content>
     </entry>
   
 
@@ -186,7 +186,7 @@
     	<updated>2021-06-09T01:01:42.000Z</updated>
     	<id>Don't-let-Social-Media-Think-for-You</id>
     	<summary><p>“And herein lies my biggest gripe with social media. There is no room for nuance, there is no room for grey. Every interaction is based on reaction alone - reflection is rendered moot, because there will always be another scandal that needs attending to.”</p></summary>
-    	<content><p>“And herein lies my biggest gripe with social media. There is no room for nuance, there is no room for grey. Every interaction is based on reaction alone - reflection is rendered moot, because there will always be another scandal that needs attending to.”</p></content>
+    	<content type="html"><p>“And herein lies my biggest gripe with social media. There is no room for nuance, there is no room for grey. Every interaction is based on reaction alone - reflection is rendered moot, because there will always be another scandal that needs attending to.”</p></content>
     </entry>
   
 
@@ -196,7 +196,7 @@
     	<updated>2021-06-05T05:07:11.000Z</updated>
     	<id>Costis94---Bookcut</id>
     	<summary><p>A CLI tool for downloading ebooks. I haven’t had much luck with Calibre’s Libgen extensions. This may come handy.</p></summary>
-    	<content><p>A CLI tool for downloading ebooks. I haven’t had much luck with Calibre’s Libgen extensions. This may come handy.</p></content>
+    	<content type="html"><p>A CLI tool for downloading ebooks. I haven’t had much luck with Calibre’s Libgen extensions. This may come handy.</p></content>
     </entry>
   
 
@@ -206,7 +206,7 @@
     	<updated>2021-06-01T02:21:53.000Z</updated>
     	<id>Twitter---@beesandbombs</id>
     	<summary><p>Pretty math gifs</p></summary>
-    	<content><p>Pretty math gifs</p></content>
+    	<content type="html"><p>Pretty math gifs</p></content>
     </entry>
   
 
@@ -219,7 +219,7 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=27323548" rel="noopener noreferrer" target="_blank">https://news.ycombinator.com/item?id=27323548</a></p>
 <p>Points: 218</p>
 <p># Comments: 62</p></summary>
-    	<content><p>Article URL: <a href="https://github.com/jtpio/jupyterlite" rel="noopener noreferrer" target="_blank">https://github.com/jtpio/jupyterlite</a></p>
+    	<content type="html"><p>Article URL: <a href="https://github.com/jtpio/jupyterlite" rel="noopener noreferrer" target="_blank">https://github.com/jtpio/jupyterlite</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=27323548" rel="noopener noreferrer" target="_blank">https://news.ycombinator.com/item?id=27323548</a></p>
 <p>Points: 218</p>
 <p># Comments: 62</p></content>
@@ -232,7 +232,7 @@
     	<updated>2021-05-28T23:44:12.000Z</updated>
     	<id>GitHub---nocodb/nocodb</id>
     	<summary><p>The selfhosted Airtable clone I was looking for.</p></summary>
-    	<content><p>The selfhosted Airtable clone I was looking for.</p></content>
+    	<content type="html"><p>The selfhosted Airtable clone I was looking for.</p></content>
     </entry>
   
 
@@ -242,7 +242,7 @@
     	<updated>2021-05-26T06:12:12.000Z</updated>
     	<id>Github---tilenart/Franklin.jl</id>
     	<summary><p>A static site generator written in Julia</p></summary>
-    	<content><p>A static site generator written in Julia</p></content>
+    	<content type="html"><p>A static site generator written in Julia</p></content>
     </entry>
   
 
@@ -252,7 +252,7 @@
     	<updated>2021-05-25T15:14:16.000Z</updated>
     	<id>Urbit-::-the-good,-the-bad-and-the-insane</id>
     	<summary><p>A not-so-kind take on Urbit</p></summary>
-    	<content><p>A not-so-kind take on Urbit</p></content>
+    	<content type="html"><p>A not-so-kind take on Urbit</p></content>
     </entry>
   
 
@@ -262,7 +262,7 @@
     	<updated>2021-05-21T16:00:44.000Z</updated>
     	<id>An-"out-of-the-box"-proof-that-√2-is-irrational</id>
     	<summary><p>In the decimal system, a square of an integer may only end in 0, 1, 4, 5, 6, or 9, whereas twice a square may only end with 0,2,8. So if a²=2b², a must end with 0 and b must end with 5 or 0. This triggers an infinite descent that proves: no solution where a and b both are integers, which implies a/b must be irrational.</p></summary>
-    	<content><p>In the decimal system, a square of an integer may only end in 0, 1, 4, 5, 6, or 9, whereas twice a square may only end with 0,2,8. So if a²=2b², a must end with 0 and b must end with 5 or 0. This triggers an infinite descent that proves: no solution where a and b both are integers, which implies a/b must be irrational.</p></content>
+    	<content type="html"><p>In the decimal system, a square of an integer may only end in 0, 1, 4, 5, 6, or 9, whereas twice a square may only end with 0,2,8. So if a²=2b², a must end with 0 and b must end with 5 or 0. This triggers an infinite descent that proves: no solution where a and b both are integers, which implies a/b must be irrational.</p></content>
     </entry>
   
 
@@ -272,7 +272,7 @@
     	<updated>2021-05-19T01:52:12.000Z</updated>
     	<id>Meta---Document-Writer</id>
     	<summary><p>A collaborative document writer with some neat features for version control.</p></summary>
-    	<content><p>A collaborative document writer with some neat features for version control.</p></content>
+    	<content type="html"><p>A collaborative document writer with some neat features for version control.</p></content>
     </entry>
   
 
@@ -282,7 +282,7 @@
     	<updated>2021-05-18T00:02:15.000Z</updated>
     	<id>Increasing-frequency-of-extremely-severe-cyclonic-storms-over-the-Arabian-Sea</id>
     	<summary><p>In light of the May 2021 cyclone in the Arabian Sea, people are wondering if it happened because of the climate change. Well, here is the deal: it can’t be said if the climate change is responsible for a single event. But it can be estimated if it increases the likelihood of said event. This study shows how the increasing temperature in the Arabian sea is increasing the likelihood of severe cyclones and that explains why we’re seeing them almost every year now, when earlier there used to be none.</p></summary>
-    	<content><p>In light of the May 2021 cyclone in the Arabian Sea, people are wondering if it happened because of the climate change. Well, here is the deal: it can’t be said if the climate change is responsible for a single event. But it can be estimated if it increases the likelihood of said event. This study shows how the increasing temperature in the Arabian sea is increasing the likelihood of severe cyclones and that explains why we’re seeing them almost every year now, when earlier there used to be none.</p></content>
+    	<content type="html"><p>In light of the May 2021 cyclone in the Arabian Sea, people are wondering if it happened because of the climate change. Well, here is the deal: it can’t be said if the climate change is responsible for a single event. But it can be estimated if it increases the likelihood of said event. This study shows how the increasing temperature in the Arabian sea is increasing the likelihood of severe cyclones and that explains why we’re seeing them almost every year now, when earlier there used to be none.</p></content>
     </entry>
   
 
@@ -292,7 +292,7 @@
     	<updated>2021-05-16T21:03:48.000Z</updated>
     	<id>Running-multiple-emacs-daemons</id>
     	<summary><p>Using this and Chemacs, it’ll probably be possible to run multiple specialised emacs configs.</p></summary>
-    	<content><p>Using this and Chemacs, it’ll probably be possible to run multiple specialised emacs configs.</p></content>
+    	<content type="html"><p>Using this and Chemacs, it’ll probably be possible to run multiple specialised emacs configs.</p></content>
     </entry>
   
 
@@ -302,7 +302,7 @@
     	<updated>2021-05-16T02:19:13.000Z</updated>
     	<id>I-should-have-loved-biology</id>
     	<summary><p>A reminder that there is no dull subject, only uninspired teaching.</p></summary>
-    	<content><p>A reminder that there is no dull subject, only uninspired teaching.</p></content>
+    	<content type="html"><p>A reminder that there is no dull subject, only uninspired teaching.</p></content>
     </entry>
   
 
@@ -312,7 +312,7 @@
     	<updated>2021-05-15T23:46:46.000Z</updated>
     	<id>Hidden-Brain---The-Fake-Bride</id>
     	<summary><p>A surreal story of a fake wedding.</p></summary>
-    	<content><p>A surreal story of a fake wedding.</p></content>
+    	<content type="html"><p>A surreal story of a fake wedding.</p></content>
     </entry>
   
 
@@ -322,7 +322,7 @@
     	<updated>2021-05-13T15:15:25.000Z</updated>
     	<id>GitHub---Wikunia/Javis.jl</id>
     	<summary><p>Julia package for animation</p></summary>
-    	<content><p>Julia package for animation</p></content>
+    	<content type="html"><p>Julia package for animation</p></content>
     </entry>
   
 
@@ -332,7 +332,7 @@
     	<updated>2021-05-13T15:14:00.000Z</updated>
     	<id>Darknet-Diaries---The-Pirate-Bay</id>
     	<summary><p>🏴‍☠️ ✊</p></summary>
-    	<content><p>🏴‍☠️ ✊</p></content>
+    	<content type="html"><p>🏴‍☠️ ✊</p></content>
     </entry>
   
 
@@ -342,7 +342,7 @@
     	<updated>2021-05-12T20:08:43.000Z</updated>
     	<id>Org-Agenda-As-New-Tab-Page</id>
     	<summary><p>This is a neat trick and can be applied to all sorts of org files other than agenda.</p></summary>
-    	<content><p>This is a neat trick and can be applied to all sorts of org files other than agenda.</p></content>
+    	<content type="html"><p>This is a neat trick and can be applied to all sorts of org files other than agenda.</p></content>
     </entry>
   
 
@@ -355,7 +355,7 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=27112529" rel="noopener noreferrer" target="_blank">https://news.ycombinator.com/item?id=27112529</a></p>
 <p>Points: 334</p>
 <p># Comments: 127</p></summary>
-    	<content><p>Article URL: <a href="http://atlasengineering.io" rel="noopener noreferrer" target="_blank">http://atlasengineering.io</a></p>
+    	<content type="html"><p>Article URL: <a href="http://atlasengineering.io" rel="noopener noreferrer" target="_blank">http://atlasengineering.io</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=27112529" rel="noopener noreferrer" target="_blank">https://news.ycombinator.com/item?id=27112529</a></p>
 <p>Points: 334</p>
 <p># Comments: 127</p></content>
@@ -368,7 +368,7 @@
     	<updated>2021-05-11T22:09:04.000Z</updated>
     	<id>Github---airladon/FigureOne</id>
     	<summary><p>A JavaScript library for creating interactive/animated diagram/equation/plot</p></summary>
-    	<content><p>A JavaScript library for creating interactive/animated diagram/equation/plot</p></content>
+    	<content type="html"><p>A JavaScript library for creating interactive/animated diagram/equation/plot</p></content>
     </entry>
   
 
@@ -378,7 +378,7 @@
     	<updated>2021-05-11T18:25:46.000Z</updated>
     	<id>YouTube---ScienceClic-English</id>
     	<summary><p>I have recently discovered this channel. Reminds me of 3Blue1Brown.</p></summary>
-    	<content><p>I have recently discovered this channel. Reminds me of 3Blue1Brown.</p></content>
+    	<content type="html"><p>I have recently discovered this channel. Reminds me of 3Blue1Brown.</p></content>
     </entry>
   
 
@@ -391,7 +391,7 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=27103230" rel="noopener noreferrer" target="_blank">https://news.ycombinator.com/item?id=27103230</a></p>
 <p>Points: 284</p>
 <p># Comments: 113</p></summary>
-    	<content><p>Article URL: <a href="https://www.etymologynerd.com/blog/choices" rel="noopener noreferrer" target="_blank">https://www.etymologynerd.com/blog/choices</a></p>
+    	<content type="html"><p>Article URL: <a href="https://www.etymologynerd.com/blog/choices" rel="noopener noreferrer" target="_blank">https://www.etymologynerd.com/blog/choices</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=27103230" rel="noopener noreferrer" target="_blank">https://news.ycombinator.com/item?id=27103230</a></p>
 <p>Points: 284</p>
 <p># Comments: 113</p></content>
@@ -404,7 +404,7 @@
     	<updated>2021-05-10T18:07:15.000Z</updated>
     	<id>Github---AnthonyDiGirolamo/dot-all</id>
     	<summary><p>I need to steal a lot of stuff from this dotfile repo, especially tangleawk.</p></summary>
-    	<content><p>I need to steal a lot of stuff from this dotfile repo, especially tangleawk.</p></content>
+    	<content type="html"><p>I need to steal a lot of stuff from this dotfile repo, especially tangleawk.</p></content>
     </entry>
   
 
@@ -414,7 +414,7 @@
     	<updated>2021-05-10T17:45:10.000Z</updated>
     	<id>Reply-All---Disappeared</id>
     	<summary><p>As I was going through old Reply All episodes, I found one where a man breaks the internet by pulling out his npm package. And I found it on the same day my own site breaks (kinda) because of an npm package update. Talk about serendipity!</p></summary>
-    	<content><p>As I was going through old Reply All episodes, I found one where a man breaks the internet by pulling out his npm package. And I found it on the same day my own site breaks (kinda) because of an npm package update. Talk about serendipity!</p></content>
+    	<content type="html"><p>As I was going through old Reply All episodes, I found one where a man breaks the internet by pulling out his npm package. And I found it on the same day my own site breaks (kinda) because of an npm package update. Talk about serendipity!</p></content>
     </entry>
   
 
@@ -427,7 +427,7 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=27094415" rel="noopener noreferrer" target="_blank">https://news.ycombinator.com/item?id=27094415</a></p>
 <p>Points: 228</p>
 <p># Comments: 199</p></summary>
-    	<content><p>Article URL: <a href="http://www.gnuplot.info/faq/faq.html#x1-70001.2" rel="noopener noreferrer" target="_blank">http://www.gnuplot.info/faq/faq.html#x1-70001.2</a></p>
+    	<content type="html"><p>Article URL: <a href="http://www.gnuplot.info/faq/faq.html#x1-70001.2" rel="noopener noreferrer" target="_blank">http://www.gnuplot.info/faq/faq.html#x1-70001.2</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=27094415" rel="noopener noreferrer" target="_blank">https://news.ycombinator.com/item?id=27094415</a></p>
 <p>Points: 228</p>
 <p># Comments: 199</p></content>
@@ -440,7 +440,7 @@
     	<updated>2021-05-09T11:00:01.000Z</updated>
     	<id>GitHub---akavel/up</id>
     	<summary><p>A cli tool for writing pipes with instant live preview</p></summary>
-    	<content><p>A cli tool for writing pipes with instant live preview</p></content>
+    	<content type="html"><p>A cli tool for writing pipes with instant live preview</p></content>
     </entry>
   
 
@@ -450,7 +450,7 @@
     	<updated>2021-05-09T10:57:02.000Z</updated>
     	<id>Beeper---All-Your-Chats-In-One-App</id>
     	<summary><p>Beeper is a unified inbox app, which uses Matrix bridges. The app has a subscription fee. But an ansible script is available for self-hosts to deploy the bridges and those will probably work with other Matrix client. I need to tinker with that at some point.</p></summary>
-    	<content><p>Beeper is a unified inbox app, which uses Matrix bridges. The app has a subscription fee. But an ansible script is available for self-hosts to deploy the bridges and those will probably work with other Matrix client. I need to tinker with that at some point.</p></content>
+    	<content type="html"><p>Beeper is a unified inbox app, which uses Matrix bridges. The app has a subscription fee. But an ansible script is available for self-hosts to deploy the bridges and those will probably work with other Matrix client. I need to tinker with that at some point.</p></content>
     </entry>
   
 
@@ -460,7 +460,7 @@
     	<updated>2021-05-08T22:54:54.000Z</updated>
     	<id>Replacing-Jupyter-Notebook-with-Org-Mode</id>
     	<summary><p>As much as I like VS Code’s notebook interface, I am going to replace it with Org mode soon™. This is a guide that’s going to help.</p></summary>
-    	<content><p>As much as I like VS Code’s notebook interface, I am going to replace it with Org mode soon™. This is a guide that’s going to help.</p></content>
+    	<content type="html"><p>As much as I like VS Code’s notebook interface, I am going to replace it with Org mode soon™. This is a guide that’s going to help.</p></content>
     </entry>
   
 
@@ -470,7 +470,7 @@
     	<updated>2021-05-08T21:58:43.000Z</updated>
     	<id>Edward-Snowden-at-Private-Investment-Club-Zoom-Meeting</id>
     	<summary><p>If you’re getting exposed, might as well get exposed by Snowden himself.</p></summary>
-    	<content><p>If you’re getting exposed, might as well get exposed by Snowden himself.</p></content>
+    	<content type="html"><p>If you’re getting exposed, might as well get exposed by Snowden himself.</p></content>
     </entry>
   
 
@@ -480,7 +480,7 @@
     	<updated>2021-05-08T20:58:41.000Z</updated>
     	<id>Configure-Zotero-to-retrieve-PDF-from-Sci-Hub-automatically</id>
     	<summary><p>This is going to save a few extra clicks.</p></summary>
-    	<content><p>This is going to save a few extra clicks.</p></content>
+    	<content type="html"><p>This is going to save a few extra clicks.</p></content>
     </entry>
   
 
@@ -490,7 +490,7 @@
     	<updated>2021-05-08T16:16:31.000Z</updated>
     	<id>Addiction-to-Outrage</id>
     	<summary><p>Outrage is like a lot of other things that feel good but over time devour us from the inside out. And it’s even more insidious than most vices because we don’t even consciously acknowledge that it’s a pleasure. — Tim Kreider</p></summary>
-    	<content><p>Outrage is like a lot of other things that feel good but over time devour us from the inside out. And it’s even more insidious than most vices because we don’t even consciously acknowledge that it’s a pleasure. — Tim Kreider</p></content>
+    	<content type="html"><p>Outrage is like a lot of other things that feel good but over time devour us from the inside out. And it’s even more insidious than most vices because we don’t even consciously acknowledge that it’s a pleasure. — Tim Kreider</p></content>
     </entry>
   
 
@@ -500,7 +500,7 @@
     	<updated>2021-05-08T10:37:45.000Z</updated>
     	<id>GitHub---osmoscraft/osmosfeed</id>
     	<summary><p>An RSS reader, powered by Github Actions and hosted as Github Pages</p></summary>
-    	<content><p>An RSS reader, powered by Github Actions and hosted as Github Pages</p></content>
+    	<content type="html"><p>An RSS reader, powered by Github Actions and hosted as Github Pages</p></content>
     </entry>
   
 </feed>
