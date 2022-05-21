@@ -3,6 +3,7 @@
 Feed is my personal link-sharing site built using [Deno](https://deno.land/) and [Lume](https://lume.land/). It converts an RSS/Atom feed to a minimal static site.
 
 - Visit https://onnyyonn.github.io/feed to read the feed.
+- Add https://onnyyonn.github.io/feed/feed.xml to your feed reader.
 
 ## Develop
 
