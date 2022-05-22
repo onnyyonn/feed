@@ -5,6 +5,15 @@
     <link href="https://onnyyonn.github.io/feed" rel="self"/>
     
     <entry>
+        <title>Let's remove Quaternions from every 3D Engine</title>
+    	<link href="https://marctenbosch.com/quaternions/"/>
+    	<updated>2022-05-21T09:01:27.000Z</updated>
+    	<id>Let's-remove-Quaternions-from-every-3D-Engine</id>
+    	<content type="html"><![CDATA[<p>A guide for intuitive understanding of quaternions. The page is a video, an article and interactive diagrams all at once and different medium sync with each other quite nicely.</p>]]></content>
+    </entry>
+  
+
+    <entry>
         <title>Nota: A Document Language for the Browser</title>
     	<link href="https://nota-lang.org"/>
     	<updated>2022-05-20T13:35:31.000Z</updated>
