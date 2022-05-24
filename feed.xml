@@ -5,6 +5,15 @@
     <link href="https://onnyyonn.github.io/feed" rel="self"/>
     
     <entry>
+        <title>Github - pygfx/pygfx</title>
+    	<link href="https://github.com/pygfx/pygfx"/>
+    	<updated>2022-05-24T06:10:26.000Z</updated>
+    	<id>Github---pygfx/pygfx</id>
+    	<content type="html"><![CDATA[<p>A ThreeJS-inspired render engine, but for Python, built on top of WebGPU</p>]]></content>
+    </entry>
+  
+
+    <entry>
         <title>Let's remove Quaternions from every 3D Engine</title>
     	<link href="https://marctenbosch.com/quaternions/"/>
     	<updated>2022-05-21T09:01:27.000Z</updated>
