@@ -5,6 +5,15 @@
     <link href="https://onnyyonn.github.io/feed" rel="self"/>
     
     <entry>
+        <title>Github - connorferster/handcalcs</title>
+    	<link href="https://github.com/connorferster/handcalcs"/>
+    	<updated>2022-05-30T07:53:51.000Z</updated>
+    	<id>Github---connorferster/handcalcs</id>
+    	<content type="html"><![CDATA[<p>Python library for converting Python calculations into rendered latex</p>]]></content>
+    </entry>
+  
+
+    <entry>
         <title>Videogrep</title>
     	<link href="https://antiboredom.github.io/videogrep/"/>
     	<updated>2022-05-27T09:02:27.000Z</updated>
