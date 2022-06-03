@@ -5,6 +5,15 @@
     <link href="https://onnyyonn.github.io/feed" rel="self"/>
     
     <entry>
+        <title>Kroki</title>
+    	<link href="https://kroki.io/"/>
+    	<updated>2022-06-02T22:31:54.000Z</updated>
+    	<id>Kroki</id>
+    	<content type="html"><![CDATA[<p>An unified API for a lot of “diagram as code” libraries. It’s selfhostable. And there is an unofficial Obsidian plugin. I am exploring it as a means to add figures to my notes without having to attach images.</p>]]></content>
+    </entry>
+  
+
+    <entry>
         <title>Littlewood’s Law and the Global Media</title>
     	<link href="https://www.gwern.net/Littlewood"/>
     	<updated>2022-06-01T07:35:31.000Z</updated>
