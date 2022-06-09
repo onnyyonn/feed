@@ -5,6 +5,15 @@
     <link href="https://onnyyonn.github.io/feed" rel="self"/>
     
     <entry>
+        <title>deSEC</title>
+    	<link href="https://desec.io/"/>
+    	<updated>2022-06-09T03:49:19.000Z</updated>
+    	<id>deSEC</id>
+    	<content type="html"><![CDATA[<p>FOSS DNS hosting. An alternative to Cloudflare that I may consider switching to in future.</p>]]></content>
+    </entry>
+  
+
+    <entry>
         <title>Github - Qballjos/portainer_templates</title>
     	<link href="https://github.com/Qballjos/portainer_templates"/>
     	<updated>2022-06-03T23:55:46.000Z</updated>
