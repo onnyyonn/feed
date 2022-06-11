@@ -5,6 +5,15 @@
     <link href="https://onnyyonn.github.io/feed" rel="self"/>
     
     <entry>
+        <title>Biomedical Pathways</title>
+    	<link href="http://biochemical-pathways.com/"/>
+    	<updated>2022-06-11T00:35:32.000Z</updated>
+    	<id>Biomedical-Pathways</id>
+    	<content type="html"><![CDATA[<p>Maps of biomedical pathways as posters, that can be serched and filtered.</p>]]></content>
+    </entry>
+  
+
+    <entry>
         <title>deSEC</title>
     	<link href="https://desec.io/"/>
     	<updated>2022-06-09T03:49:19.000Z</updated>
@@ -178,18 +187,6 @@
     	<updated>2021-06-20T18:05:49.000Z</updated>
     	<id>Deepnote</id>
     	<content type="html"><![CDATA[<p>One of the best cloud notebooks I have discovered</p>]]></content>
-    </entry>
-  
-
-    <entry>
-        <title>Biochemical Pathway Maps</title>
-    	<link href="http://biochemical-pathways.com"/>
-    	<updated>2021-06-17T21:58:48.000Z</updated>
-    	<id>Biochemical-Pathway-Maps</id>
-    	<content type="html"><![CDATA[<p>Article URL: <a href="http://biochemical-pathways.com" rel="noopener noreferrer" target="_blank">http://biochemical-pathways.com</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=27544894" rel="noopener noreferrer" target="_blank">https://news.ycombinator.com/item?id=27544894</a></p>
-<p>Points: 227</p>
-<p># Comments: 76</p>]]></content>
     </entry>
   
 
