@@ -5,6 +5,33 @@
     <link href="https://onnyyonn.github.io/feed" rel="self"/>
     
     <entry>
+        <title>DNS Toys</title>
+    	<link href="https://www.dns.toys/"/>
+    	<updated>2022-06-12T03:31:01.000Z</updated>
+    	<id>DNS-Toys</id>
+    	<content type="html"><![CDATA[<p>Cool commandline utilities served over DNS protocol</p>]]></content>
+    </entry>
+  
+
+    <entry>
+        <title>Github - quenhus/uBlock-Origin-dev-filter</title>
+    	<link href="https://github.com/quenhus/uBlock-Origin-dev-filter"/>
+    	<updated>2022-06-11T14:30:16.000Z</updated>
+    	<id>Github---quenhus/uBlock-Origin-dev-filter</id>
+    	<content type="html"><![CDATA[<p>uBlock Origin filter to block some spammy copycat sites from Google and DuckDuckGo search results. Similar personal blocklist can be created at <a href="https://letsblock.it">https://letsblock.it</a></p>]]></content>
+    </entry>
+  
+
+    <entry>
+        <title>A high-dimensional sphere spilling out of a high-dimensional cube despite exponentially many constraints</title>
+    	<link href="https://stanislavfort.github.io/blog/sphere-spilling-out/"/>
+    	<updated>2022-06-11T14:07:45.000Z</updated>
+    	<id>A-high-dimensional-sphere-spilling-out-of-a-high-dimensional-cube-despite-exponentially-many-constraints</id>
+    	<content type="html"><![CDATA[<p>An easy-to-understand proof of an utterly counter-intuitive result</p>]]></content>
+    </entry>
+  
+
+    <entry>
         <title>Biomedical Pathways</title>
     	<link href="http://biochemical-pathways.com/"/>
     	<updated>2022-06-11T00:35:32.000Z</updated>
@@ -95,18 +122,6 @@
   
 
     <entry>
-        <title>A high-dimensional sphere spilling out of a high-dimensional cube</title>
-    	<link href="https://stanislavfort.github.io/blog/sphere-spilling-out/"/>
-    	<updated>2022-01-17T17:05:43.000Z</updated>
-    	<id>A-high-dimensional-sphere-spilling-out-of-a-high-dimensional-cube</id>
-    	<content type="html"><![CDATA[<p>Article URL: <a href="https://stanislavfort.github.io/blog/sphere-spilling-out/" rel="noopener noreferrer" target="_blank">https://stanislavfort.github.io/blog/sphere-spilling-out/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=29968702" rel="noopener noreferrer" target="_blank">https://news.ycombinator.com/item?id=29968702</a></p>
-<p>Points: 290</p>
-<p># Comments: 132</p>]]></content>
-    </entry>
-  
-
-    <entry>
         <title>The Color of Infinite Temperature</title>
     	<link href="https://johncarlosbaez.wordpress.com/2022/01/16/the-color-of-infinite-temperature/"/>
     	<updated>2022-01-17T02:10:34.000Z</updated>
@@ -139,18 +154,6 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=29845208" rel="noopener noreferrer" target="_blank">https://news.ycombinator.com/item?id=29845208</a></p>
 <p>Points: 3101</p>
 <p># Comments: 1048</p>]]></content>
-    </entry>
-  
-
-    <entry>
-        <title>Underrated Reasons to Be Thankful</title>
-    	<link href="https://dynomight.net/thanks/"/>
-    	<updated>2021-11-25T13:11:04.000Z</updated>
-    	<id>Underrated-Reasons-to-Be-Thankful</id>
-    	<content type="html"><![CDATA[<p>Article URL: <a href="https://dynomight.net/thanks/" rel="noopener noreferrer" target="_blank">https://dynomight.net/thanks/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=29341055" rel="noopener noreferrer" target="_blank">https://news.ycombinator.com/item?id=29341055</a></p>
-<p>Points: 914</p>
-<p># Comments: 321</p>]]></content>
     </entry>
   
 
@@ -241,18 +244,6 @@
     	<updated>2021-06-01T02:21:53.000Z</updated>
     	<id>Twitter---@beesandbombs</id>
     	<content type="html"><![CDATA[<p>Pretty math gifs</p>]]></content>
-    </entry>
-  
-
-    <entry>
-        <title>JupyterLite – WASM-powered Jupyter running in the browser</title>
-    	<link href="https://github.com/jtpio/jupyterlite"/>
-    	<updated>2021-05-29T06:59:45.000Z</updated>
-    	<id>JupyterLite---WASM-powered-Jupyter-running-in-the-browser</id>
-    	<content type="html"><![CDATA[<p>Article URL: <a href="https://github.com/jtpio/jupyterlite" rel="noopener noreferrer" target="_blank">https://github.com/jtpio/jupyterlite</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=27323548" rel="noopener noreferrer" target="_blank">https://news.ycombinator.com/item?id=27323548</a></p>
-<p>Points: 218</p>
-<p># Comments: 62</p>]]></content>
     </entry>
   
 
@@ -361,18 +352,6 @@
     	<updated>2021-05-12T20:08:43.000Z</updated>
     	<id>Org-Agenda-As-New-Tab-Page</id>
     	<content type="html"><![CDATA[<p>This is a neat trick and can be applied to all sorts of org files other than agenda.</p>]]></content>
-    </entry>
-  
-
-    <entry>
-        <title>Atlas, a hopefully better engineering IDE</title>
-    	<link href="http://atlasengineering.io"/>
-    	<updated>2021-05-11T00:03:32.000Z</updated>
-    	<id>Atlas,-a-hopefully-better-engineering-IDE</id>
-    	<content type="html"><![CDATA[<p>Article URL: <a href="http://atlasengineering.io" rel="noopener noreferrer" target="_blank">http://atlasengineering.io</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=27112529" rel="noopener noreferrer" target="_blank">https://news.ycombinator.com/item?id=27112529</a></p>
-<p>Points: 334</p>
-<p># Comments: 127</p>]]></content>
     </entry>
   
 
