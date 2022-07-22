@@ -5,6 +5,15 @@
     <link href="https://onnyyonn.github.io/feed" rel="self"/>
     
     <entry>
+        <title>The Daily Wrong</title>
+    	<link href="https://dailywrong.com/"/>
+    	<updated>2022-07-22T05:57:00.000Z</updated>
+    	<id>The-Daily-Wrong</id>
+    	<content type="html"><![CDATA[<p>A fake publication, created with DALL-E and GPT3</p>]]></content>
+    </entry>
+  
+
+    <entry>
         <title>Webb Compare</title>
     	<link href="https://johnedchristensen.github.io/WebbCompare/"/>
     	<updated>2022-07-12T21:28:51.000Z</updated>
