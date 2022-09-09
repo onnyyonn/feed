@@ -5,6 +5,15 @@
     <link href="https://onnyyonn.github.io/feed" rel="self"/>
     
     <entry>
+        <title>Github - zeke/inpainter</title>
+    	<link href="https://github.com/zeke/inpainter"/>
+    	<updated>2022-09-08T22:19:27.000Z</updated>
+    	<id>Github---zeke/inpainter</id>
+    	<content type="html"><![CDATA[<p>A web GUI for Stable Diffusion with inpainting</p>]]></content>
+    </entry>
+  
+
+    <entry>
         <title>The Daily Wrong</title>
     	<link href="https://dailywrong.com/"/>
     	<updated>2022-07-22T05:57:00.000Z</updated>
