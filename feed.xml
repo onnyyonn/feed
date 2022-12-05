@@ -5,6 +5,24 @@
     <link href="https://onnyyonn.github.io/feed" rel="self"/>
     
     <entry>
+        <title>Silver Bullet</title>
+    	<link href="https://silverbullet.md/"/>
+    	<updated>2022-12-04T09:44:00.000Z</updated>
+    	<id>Silver-Bullet</id>
+    	<content type="html"><![CDATA[<p>An open source extensible personal knowledge management system, that’s selfhostable and runs on a browser. Can replace Obsidian in future.</p>]]></content>
+    </entry>
+  
+
+    <entry>
+        <title>Building A Virtual Machine inside ChatGPT</title>
+    	<link href="https://www.engraved.blog/building-a-virtual-machine-inside/"/>
+    	<updated>2022-12-04T08:11:23.000Z</updated>
+    	<id>Building-A-Virtual-Machine-inside-ChatGPT</id>
+    	<content type="html"><![CDATA[<p>You can probably make a vm inside chatGPT inside a vm inside chatGPT inside… it’s chatGPT all the way down!</p>]]></content>
+    </entry>
+  
+
+    <entry>
         <title>Floor796</title>
     	<link href="https://floor796.com/"/>
     	<updated>2022-11-16T01:48:32.000Z</updated>
